@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @BananaSorcery, currently a senior student at University of Science, HCMC
 - 👀 I’m interested in DevOps/Cloud Engineer roles
 - 🌱 I’m currently learning Docker, Kubernetes, Jenkins, Microsoft Azure
 - 📫 My email: trunghautran0803@gmail.com
